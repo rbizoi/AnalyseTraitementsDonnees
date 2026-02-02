@@ -12,9 +12,6 @@
 
 <b><div style='padding:15px;background-color:#d8dcd6;color:#030aa7;font-size:120%;text-align: left'>Installation</div></b>
 
-
-
-
 <table>
     <tr>                                                                                   
          <th><a href="https://www.anaconda.com/download/success">
